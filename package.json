@@ -1,0 +1,17 @@
+{
+  "name": "redesigned-octo-eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@indahsybla/menghitung-data-siswa": "^1.0.0",
+    "@nizarambr/teanxinx": "^1.0.0",
+    "kalkulator-kehidupan": "^1.0.1",
+    "sistem-absensi-murid": "^1.0.0"
+  }
+}
